@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Asynchronous Parallel Gradient Boosting using Parameter Server
 
 You can use the [editor on GitHub](https://github.com/GavinL99/15418-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
