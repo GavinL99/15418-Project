@@ -61,6 +61,10 @@ We will also use C++ for the asynchronous implementation, as it is easy to imple
 ## Schedule
 We plan to achieve the following by the given dates:
 
+| Date        | Goal Reached           |
+| ------------- |:-------------:|
+| 11/3     | Research on fork-join GBDT, async-GBDR and find datasets to train and test on |
+
 \begin{table}[h]
 \begin{tabular}{@{}ll@{}}
 \toprule
