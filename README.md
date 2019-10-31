@@ -64,17 +64,9 @@ We plan to achieve the following by the given dates:
 | Date        | Goal Reached           |
 | ------------- |:-------------:|
 | 11/3     | Research on fork-join GBDT, async-GBDR and find datasets to train and test on |
-
-\begin{table}[h]
-\begin{tabular}{@{}ll@{}}
-\toprule
-Date  & Goal Reached \\ \midrule
-11/3  & Research on fork-join GBDT, async-GBDR and find datasets to train and test on \\
-11/10  & Implement the OpenMP gradient boosting algorithm \\
-11/15 & Implement the MPI gradient boosting algorithm   \\
-11/20 & Implement the asynchronous parameter server and associated data structures         \\
-11/27 & Implement and integrate the asynchronous GBDT algorithm\\
-11/30 & Experiments and profiling to optimize parameter server \\
-12/6  & Comparison analysis, write-up and poster \\ 
-\bottomrule
-
+| 11/10     | Implement the OpenMP gradient boosting algorithm |
+| 11/15     | Implement the MPI gradient boosting algorithm |
+| 11/20     | Implement the asynchronous parameter server and associated data structures |
+| 11/27     | Implement and integrate the asynchronous GBDT algorithm |
+| 11/30     | Experiments and profiling to optimize parameter server |
+| 12/06    | Comparison analysis, write-up and poster |
