@@ -1,5 +1,8 @@
 # Asynchronous Parallel Gradient Boosting using Parameter Server
 
+## URL
+The link to our web page is: https://gavinl99.github.io/15418-Project/
+
 ## Summary
 We plan on implementing a gradient boosting decision tree (GBDT) algorithm in an asynchronous framework. We are going to distribute the work in parallel through a parameter server, whilst first creating a proof of concept in OpenMP and MPI. Performance will be compared with sequential and parallel implementation in OpenCV and XGBoost.
 
