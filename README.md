@@ -1,5 +1,9 @@
 # Asynchronous Parallel Gradient Boosting using Parameter Server
 
+
+## Final Report
+The link to our final report is: https://github.com/GavinL99/async-gbdt/blob/master/15418_Final_Project_Report.pdf
+
 ## URL
 The link to our web page is: https://gavinl99.github.io/15418-Project/
 
